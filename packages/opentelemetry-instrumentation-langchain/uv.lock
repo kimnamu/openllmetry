@@ -1492,7 +1492,7 @@ wheels = [
 
 [[package]]
 name = "opentelemetry-instrumentation-bedrock"
-version = "0.60.0"
+version = "0.61.0"
 source = { editable = "../opentelemetry-instrumentation-bedrock" }
 dependencies = [
     { name = "opentelemetry-api" },
@@ -1528,7 +1528,7 @@ test = [
 
 [[package]]
 name = "opentelemetry-instrumentation-langchain"
-version = "0.60.0"
+version = "0.61.0"
 source = { editable = "." }
 dependencies = [
     { name = "opentelemetry-api" },
@@ -1620,7 +1620,7 @@ test = [
 
 [[package]]
 name = "opentelemetry-instrumentation-openai"
-version = "0.60.0"
+version = "0.61.0"
 source = { editable = "../opentelemetry-instrumentation-openai" }
 dependencies = [
     { name = "opentelemetry-api" },
